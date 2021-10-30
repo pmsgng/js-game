@@ -184,3 +184,12 @@ function checkWinner() {
     }
 }
 
+//012 
+//345
+//678
+// document.getElementById('modal') = function(event) {
+
+// }
+// function showStuff(id) {
+//     document.getElementById(id).style.display = 'block';
+//   }
